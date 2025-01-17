@@ -1,6 +1,6 @@
 # Personal-Projects
-keyboard-asmr (made with python)
-meaning-of-life (made with c++)
+### keyboard-asmr (made with python)
+### meaning-of-life (made with c++)
 
 meaning-of-life is a text based mini game i made with the help of ai
 
@@ -12,4 +12,4 @@ here are some content about the mini game
 
 ![image](https://github.com/user-attachments/assets/3281aabb-d225-4d8d-9ed9-f748ae0e69c5)
 
-make sure to turn up the volume to have a better experience ! ! !
+make sure to turn up the volume to have the best experience ! ! !
