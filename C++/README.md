@@ -1,4 +1,5 @@
-### meaning-of-life (made with c++)
+# meaning of life 🍂
+## made with [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
 meaning-of-life is a text based mini game i made with the help of ai
 
