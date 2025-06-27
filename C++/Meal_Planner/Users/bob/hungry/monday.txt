@@ -1,0 +1,95 @@
+50
+3000
+drink
+Bandung
+3
+180
+250
+28
+
+food
+Fried yee mee
+9
+400
+59
+3
+12
+14
+rich
+egg noodles, soy sauce, vegetables
+
+food
+Butter Roll(70g)
+4
+200
+25
+2
+5
+10
+low
+Wheat flour, butter, yeast, sugar, milk
+
+END
+
+drink
+Grape Juice
+3
+110
+250
+24
+
+food
+Salted fish fried rice
+8
+450
+59
+3
+12
+15
+medium
+Rice, salted fish, egg, onion, soy sauce
+
+food
+Sausage Bun
+3
+200
+28
+2
+7
+9
+low
+Wheat flour, sausage, yeast, sugar, milk
+
+END
+
+drink
+Thai Milk Tea
+4
+180
+250
+30
+
+food
+Salted fish baby kailan
+9
+250
+18
+3
+10
+11
+rich
+Baby kailan, salted fish, garlic, oil
+
+food
+Baguette(70g)
+3
+150
+30
+2
+6
+2
+low
+Wheat flour, water, yeast, salt
+
+END
+

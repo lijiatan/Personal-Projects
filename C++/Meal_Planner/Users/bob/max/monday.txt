@@ -1,0 +1,51 @@
+20
+2000
+drink
+Bandung
+3
+180
+250
+28
+
+food
+Sausage Bun
+3
+200
+28
+2
+7
+9
+low
+Wheat flour, sausage, yeast, sugar, milk
+
+END
+
+drink
+Bottled Water
+2
+0
+250
+0
+
+food
+Butter Roll(70g)
+4
+200
+25
+2
+5
+10
+low
+Wheat flour, butter, yeast, sugar, milk
+
+END
+
+drink
+Lime Juice
+3
+90
+250
+20
+
+END
+

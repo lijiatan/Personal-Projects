@@ -1,0 +1,62 @@
+30
+2500
+drink
+Hot Lemon Tea
+3
+90
+250
+24
+
+food
+Fish Ball(6 pieces)	
+5
+240
+5
+0
+5
+1
+Low	
+Fish paste, salt, starch
+
+END
+
+drink
+Canned Pepsi
+3
+140
+330
+36
+
+food
+Cocktail sausages
+7
+250
+18
+1
+15
+18
+none
+Sausages, oil
+
+END
+
+drink
+White Coffee
+4
+160
+250
+24
+
+food
+Whole Wheat Bread(70g)
+4
+150
+28
+5
+5
+3
+medium
+Whole wheat flour, water, yeast, salt
+
+END
+

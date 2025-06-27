@@ -1,0 +1,73 @@
+30
+2500
+drink
+Yakult
+3
+50
+150
+10
+
+food
+Hash brown(2 pieces)
+4
+250
+30
+3
+4
+14
+low
+Potato, oil, salt
+
+food
+Croissant(70g)
+3
+150
+22
+1
+4
+10
+low
+Wheat flour, butter, yeast, sugar, milk
+
+END
+
+drink
+Yakult
+3
+50
+150
+10
+
+food
+Butter Roll(70g)
+4
+200
+25
+2
+5
+10
+low
+Wheat flour, butter, yeast, sugar, milk
+
+food
+Croissant(70g)
+3
+150
+22
+1
+4
+10
+low
+Wheat flour, butter, yeast, sugar, milk
+
+END
+
+drink
+White Coffee
+4
+160
+250
+24
+
+END
+

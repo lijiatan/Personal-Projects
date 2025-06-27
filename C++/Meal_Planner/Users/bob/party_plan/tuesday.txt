@@ -1,0 +1,95 @@
+40
+3200
+drink
+Bottled Water
+2
+0
+250
+0
+
+food
+Fish Ball(6 pieces)	
+5
+240
+5
+0
+5
+1
+Low	
+Fish paste, salt, starch
+
+food
+Telur Pindang(2 eggs)
+5
+160
+1
+0
+6
+5
+Low
+Egg
+
+END
+
+drink
+Bottled Water
+2
+0
+250
+0
+
+food
+Sausage Bun
+3
+200
+28
+2
+7
+9
+low
+Wheat flour, sausage, yeast, sugar, milk
+
+food
+Baguette(70g)
+3
+150
+30
+2
+6
+2
+low
+Wheat flour, water, yeast, salt
+
+END
+
+drink
+Mineral Water
+1
+0
+250
+0
+
+food
+Fried mee
+8
+500
+66
+4
+15
+18
+rich
+egg noodles, soy sauce, meat, vegetables
+
+food
+White Toast Bread(70 g)
+4
+150
+29
+1
+6
+3
+low
+Wheat flour, water, yeast, sugar, salt
+
+END
+

@@ -1,0 +1,51 @@
+30
+2500
+drink
+Grass Jelly Drink
+3
+90
+250
+18
+
+food
+Butter Roll(70g)
+4
+200
+25
+2
+5
+10
+low
+Wheat flour, butter, yeast, sugar, milk
+
+food
+Baguette(70g)
+3
+150
+30
+2
+6
+2
+low
+Wheat flour, water, yeast, salt
+
+END
+
+drink
+Ice Blended Matcha
+6
+280
+300
+32
+
+END
+
+drink
+Orange Juice
+3
+110
+250
+24
+
+END
+

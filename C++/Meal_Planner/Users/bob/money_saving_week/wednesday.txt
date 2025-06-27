@@ -1,0 +1,84 @@
+30
+2500
+drink
+Canned Coke
+3
+140
+330
+35
+
+food
+Croissant(70g)
+3
+150
+22
+1
+4
+10
+low
+Wheat flour, butter, yeast, sugar, milk
+
+food
+Apam Balik	
+3.5
+282
+40
+1
+3
+10
+Low	
+Rice flour, sweet corn, peanuts, sugar
+
+END
+
+drink
+Canned Pepsi
+3
+140
+330
+36
+
+food
+Fish Ball(6 pieces)	
+5
+240
+5
+0
+5
+1
+Low	
+Fish paste, salt, starch
+
+END
+
+drink
+Longan Drink
+3
+100
+250
+20
+
+food
+Danish Pastry
+4
+150
+25
+2
+4
+12
+low
+Wheat flour, butter, yeast, sugar, milk
+
+food
+Sausage Bun
+3
+200
+28
+2
+7
+9
+low
+Wheat flour, sausage, yeast, sugar, milk
+
+END
+

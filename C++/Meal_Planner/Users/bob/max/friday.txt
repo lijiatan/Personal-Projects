@@ -1,0 +1,62 @@
+20
+2000
+drink
+Longan Drink
+3
+100
+250
+20
+
+food
+Croissant(70g)
+3
+150
+22
+1
+4
+10
+low
+Wheat flour, butter, yeast, sugar, milk
+
+END
+
+drink
+Apple Juice
+3
+110
+250
+25
+
+food
+Croissant(70g)
+3
+150
+22
+1
+4
+10
+low
+Wheat flour, butter, yeast, sugar, milk
+
+END
+
+drink
+Mango Juice
+3
+130
+250
+28
+
+food
+Croissant(70g)
+3
+150
+22
+1
+4
+10
+low
+Wheat flour, butter, yeast, sugar, milk
+
+END
+

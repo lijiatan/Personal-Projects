@@ -1,0 +1,95 @@
+50
+3000
+drink
+Hot Black Tea
+3
+60
+250
+15
+
+food
+Maggie goreng
+8
+500
+75
+3
+10
+18
+rich
+Instant noodles, egg, soy sauce, vegetables, chili
+
+food
+Butter Roll(70g)
+4
+200
+25
+2
+5
+10
+low
+Wheat flour, butter, yeast, sugar, milk
+
+END
+
+drink
+Soy Milk
+3
+130
+250
+15
+
+food
+Pineapple Bun
+4
+200
+30
+2
+5
+8
+low
+Wheat flour, sugar, butter, milk, pineapple topping
+
+food
+Luncheon meat fried rice
+8
+450
+62
+2
+12
+16
+medium
+Rice, luncheon meat, egg, onion, soy sauce
+
+END
+
+drink
+Bottled Water
+2
+0
+250
+0
+
+food
+Nasi Dagang
+8
+500
+60
+2
+20
+22
+Medium
+Glutinous rice, jasmine rice, coconut milk, fish curry, pickled cucumber, carrot
+
+food
+French fries(100g)
+6
+350
+45
+4
+5
+18
+low
+Potato, oil, salt
+
+END
+

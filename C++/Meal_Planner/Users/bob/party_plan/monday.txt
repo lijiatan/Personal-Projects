@@ -1,0 +1,95 @@
+40
+3200
+drink
+Herbal Tea
+3
+60
+250
+14
+
+food
+Custard Bun
+4
+200
+30
+2
+6
+8
+low
+Wheat flour, custard, yeast, sugar, milk
+
+food
+White Toast Bread(70 g)
+4
+150
+29
+1
+6
+3
+low
+Wheat flour, water, yeast, sugar, salt
+
+END
+
+drink
+Herbal Tea
+3
+60
+250
+14
+
+food
+Danish Pastry
+4
+150
+25
+2
+4
+12
+low
+Wheat flour, butter, yeast, sugar, milk
+
+food
+Danish Pastry
+4
+150
+25
+2
+4
+12
+low
+Wheat flour, butter, yeast, sugar, milk
+
+END
+
+drink
+Iced Milk Tea
+3
+100
+250
+16
+
+food
+French fries(100g)
+6
+350
+45
+4
+5
+18
+low
+Potato, oil, salt
+
+food
+Whole Wheat Bread(70g)
+4
+150
+28
+5
+5
+3
+medium
+Whole wheat flour, water, yeast, salt
+
+END
+

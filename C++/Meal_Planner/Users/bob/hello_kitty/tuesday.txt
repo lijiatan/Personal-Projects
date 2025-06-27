@@ -1,0 +1,95 @@
+40
+3000
+drink
+Iced Teh Tarik
+3
+120
+250
+18
+
+food
+French fries(100g)
+6
+350
+45
+4
+5
+18
+low
+Potato, oil, salt
+
+food
+Sausage Bun
+3
+200
+28
+2
+7
+9
+low
+Wheat flour, sausage, yeast, sugar, milk
+
+END
+
+drink
+Honey Lemon
+3
+100
+250
+20
+
+food
+Pineapple Bun
+4
+200
+30
+2
+5
+8
+low
+Wheat flour, sugar, butter, milk, pineapple topping
+
+food
+Butter Roll(70g)
+4
+200
+25
+2
+5
+10
+low
+Wheat flour, butter, yeast, sugar, milk
+
+END
+
+drink
+Barley Drink
+3
+80
+250
+16
+
+food
+Egg fried rice
+7
+400
+55
+2
+8
+14
+rich
+Rice, egg, onion, soy sauce, oil
+
+food
+Baguette(70g)
+3
+150
+30
+2
+6
+2
+low
+Wheat flour, water, yeast, salt
+
+END
+

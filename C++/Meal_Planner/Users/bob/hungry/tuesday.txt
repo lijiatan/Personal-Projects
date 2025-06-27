@@ -1,0 +1,95 @@
+50
+3000
+drink
+Ribena
+3
+120
+250
+25
+
+food
+Cocktail sausages
+7
+250
+18
+1
+15
+18
+none
+Sausages, oil
+
+food
+Telur Pindang(2 eggs)
+5
+160
+1
+0
+6
+5
+Low
+Egg
+
+END
+
+drink
+Lime Juice
+3
+90
+250
+20
+
+food
+Salted fish fried rice
+8
+450
+59
+3
+12
+15
+medium
+Rice, salted fish, egg, onion, soy sauce
+
+food
+Telur Pindang(2 eggs)
+5
+160
+1
+0
+6
+5
+Low
+Egg
+
+END
+
+drink
+Barley Drink
+3
+80
+250
+16
+
+food
+Croissant(70g)
+3
+150
+22
+1
+4
+10
+low
+Wheat flour, butter, yeast, sugar, milk
+
+food
+Whole Wheat Bread(70g)
+4
+150
+28
+5
+5
+3
+medium
+Whole wheat flour, water, yeast, salt
+
+END
+

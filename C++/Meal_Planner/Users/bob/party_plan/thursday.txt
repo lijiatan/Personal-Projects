@@ -1,0 +1,95 @@
+40
+3200
+drink
+Iced Teh Tarik
+3
+120
+250
+18
+
+food
+Whole Wheat Bread(70g)
+4
+150
+28
+5
+5
+3
+medium
+Whole wheat flour, water, yeast, salt
+
+food
+Fish Ball(6 pieces)	
+5
+240
+5
+0
+5
+1
+Low	
+Fish paste, salt, starch
+
+END
+
+drink
+Mocha
+5
+250
+300
+28
+
+food
+Baguette(70g)
+3
+150
+30
+2
+6
+2
+low
+Wheat flour, water, yeast, salt
+
+food
+Telur Pindang(2 eggs)
+5
+160
+1
+0
+6
+5
+Low
+Egg
+
+END
+
+drink
+Vitagen
+3
+70
+150
+13
+
+food
+Sausage Bun
+3
+200
+28
+2
+7
+9
+low
+Wheat flour, sausage, yeast, sugar, milk
+
+food
+Croissant(70g)
+3
+150
+22
+1
+4
+10
+low
+Wheat flour, butter, yeast, sugar, milk
+
+END
+

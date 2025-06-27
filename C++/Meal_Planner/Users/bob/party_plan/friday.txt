@@ -1,0 +1,95 @@
+40
+3200
+drink
+Grass Jelly Drink
+3
+90
+250
+18
+
+food
+Butter Roll(70g)
+4
+200
+25
+2
+5
+10
+low
+Wheat flour, butter, yeast, sugar, milk
+
+food
+Croissant(70g)
+3
+150
+22
+1
+4
+10
+low
+Wheat flour, butter, yeast, sugar, milk
+
+END
+
+drink
+Orange Juice
+3
+110
+250
+24
+
+food
+Telur Pindang(2 eggs)
+5
+160
+1
+0
+6
+5
+Low
+Egg
+
+food
+Custard Bun
+4
+200
+30
+2
+6
+8
+low
+Wheat flour, custard, yeast, sugar, milk
+
+END
+
+drink
+Herbal Tea
+3
+60
+250
+14
+
+food
+Custard Bun
+4
+200
+30
+2
+6
+8
+low
+Wheat flour, custard, yeast, sugar, milk
+
+food
+Raisin Bread(70g)
+5
+200
+30
+3
+5
+7
+medium
+Wheat flour, raisins, yeast, sugar, butter
+
+END
+

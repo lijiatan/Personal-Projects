@@ -1,0 +1,299 @@
+Mineral Water
+1
+0
+250
+0
+
+Bottled Water
+2
+0
+250
+0
+
+Iced Lemon Tea
+3
+90
+250
+24
+
+Hot Lemon Tea
+3
+90
+250
+24
+
+Iced Milo
+4
+150
+250
+22
+
+Hot Milo
+4
+150
+250
+22
+
+Iced Coffee
+3
+80
+250
+12
+
+Hot Coffee
+3
+80
+250
+12
+
+Iced Teh Tarik
+3
+120
+250
+18
+
+Hot Teh Tarik
+3
+120
+250
+18
+
+Iced Milk Tea
+3
+100
+250
+16
+
+Iced Black Tea
+3
+60
+250
+15
+
+Hot Black Tea
+3
+60
+250
+15
+
+Canned Coke
+3
+140
+330
+35
+
+Canned 100 Plus
+3
+130
+330
+32
+
+Canned Pepsi
+3
+140
+330
+36
+
+Soy Milk
+3
+130
+250
+15
+
+Orange Juice
+3
+110
+250
+24
+
+Apple Juice
+3
+110
+250
+25
+
+Mango Juice
+3
+130
+250
+28
+
+Ice Blended Chocolate
+5
+250
+300
+35
+
+Ice Blended Coffee
+5
+200
+300
+30
+
+Bandung
+3
+180
+250
+28
+
+Honey Lemon
+3
+100
+250
+20
+
+Barley Drink
+3
+80
+250
+16
+
+Chrysanthemum Tea
+3
+80
+250
+18
+
+Green Tea (bottled)
+3
+90
+300
+20
+
+Herbal Tea
+3
+60
+250
+14
+
+Red Bull
+5
+110
+250
+27
+
+Vitagen
+3
+70
+150
+13
+
+Yakult
+3
+50
+150
+10
+
+Ice Blended Matcha
+6
+280
+300
+32
+
+Iced Cappuccino
+5
+150
+300
+20
+
+Thai Milk Tea
+4
+180
+250
+30
+
+Longan Drink
+3
+100
+250
+20
+
+Winter Melon Drink
+3
+110
+250
+22
+
+Grass Jelly Drink
+3
+90
+250
+18
+
+Ribena
+3
+120
+250
+25
+
+Lime Juice
+3
+90
+250
+20
+
+Grape Juice
+3
+110
+250
+24
+
+Fresh Coconut Water
+5
+60
+330
+12
+
+Chocolate Milk
+3
+180
+250
+25
+
+Strawberry Milk
+3
+170
+250
+24
+
+Banana Milk
+3
+160
+250
+22
+
+Milk Coffee (Kopi Susu)
+3
+140
+250
+20
+
+White Coffee
+4
+160
+250
+24
+
+Black Coffee
+3
+5
+250
+0
+
+Espresso (hot)
+4
+5
+250
+0
+
+Americano
+4
+10
+250
+0
+
+Mocha
+5
+250
+300
+28

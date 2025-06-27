@@ -1,0 +1,73 @@
+30
+2500
+drink
+Iced Milk Tea
+3
+100
+250
+16
+
+food
+Pineapple Bun
+4
+200
+30
+2
+5
+8
+low
+Wheat flour, sugar, butter, milk, pineapple topping
+
+food
+Croissant(70g)
+3
+150
+22
+1
+4
+10
+low
+Wheat flour, butter, yeast, sugar, milk
+
+END
+
+drink
+Iced Black Tea
+3
+60
+250
+15
+
+END
+
+drink
+Banana Milk
+3
+160
+250
+22
+
+food
+Sausage Bun
+3
+200
+28
+2
+7
+9
+low
+Wheat flour, sausage, yeast, sugar, milk
+
+food
+Pineapple Bun
+4
+200
+30
+2
+5
+8
+low
+Wheat flour, sugar, butter, milk, pineapple topping
+
+END
+

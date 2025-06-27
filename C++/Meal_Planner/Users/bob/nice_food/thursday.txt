@@ -1,0 +1,95 @@
+40
+3000
+drink
+Black Coffee
+3
+5
+250
+0
+
+food
+Raisin Bread(70g)
+5
+200
+30
+3
+5
+7
+medium
+Wheat flour, raisins, yeast, sugar, butter
+
+food
+Apam Balik	
+3.5
+282
+40
+1
+3
+10
+Low	
+Rice flour, sweet corn, peanuts, sugar
+
+END
+
+drink
+Iced Teh Tarik
+3
+120
+250
+18
+
+food
+Fish Ball(6 pieces)	
+5
+240
+5
+0
+5
+1
+Low	
+Fish paste, salt, starch
+
+food
+Pineapple Bun
+4
+200
+30
+2
+5
+8
+low
+Wheat flour, sugar, butter, milk, pineapple topping
+
+END
+
+drink
+Black Coffee
+3
+5
+250
+0
+
+food
+Croissant(70g)
+3
+150
+22
+1
+4
+10
+low
+Wheat flour, butter, yeast, sugar, milk
+
+food
+Danish Pastry
+4
+150
+25
+2
+4
+12
+low
+Wheat flour, butter, yeast, sugar, milk
+
+END
+

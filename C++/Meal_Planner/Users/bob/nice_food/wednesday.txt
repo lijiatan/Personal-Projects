@@ -1,0 +1,95 @@
+40
+3000
+drink
+Iced Milo
+4
+150
+250
+22
+
+food
+Baguette(70g)
+3
+150
+30
+2
+6
+2
+low
+Wheat flour, water, yeast, salt
+
+food
+Hash brown(2 pieces)
+4
+250
+30
+3
+4
+14
+low
+Potato, oil, salt
+
+END
+
+drink
+Longan Drink
+3
+100
+250
+20
+
+food
+Croissant(70g)
+3
+150
+22
+1
+4
+10
+low
+Wheat flour, butter, yeast, sugar, milk
+
+food
+French fries(100g)
+6
+350
+45
+4
+5
+18
+low
+Potato, oil, salt
+
+END
+
+drink
+Black Coffee
+3
+5
+250
+0
+
+food
+Baguette(70g)
+3
+150
+30
+2
+6
+2
+low
+Wheat flour, water, yeast, salt
+
+food
+Whole Wheat Bread(70g)
+4
+150
+28
+5
+5
+3
+medium
+Whole wheat flour, water, yeast, salt
+
+END
+
